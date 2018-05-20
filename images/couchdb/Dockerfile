@@ -1,4 +1,4 @@
-FROM telephoneorg/debian:stretch
+FROM kazoo/debian:stretch
 
 MAINTAINER Joe Black <me@joeblack.nyc>
 
